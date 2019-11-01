@@ -1,5 +1,5 @@
 # cekIP
-script ini digunakan  untuk mengecek Indek Prestasi(IP) Mahasiswa
+Hello..script ini digunakan  untuk mengecek Indek Prestasi(IP) Mahasiswa
 
 Cara Penggunaan:
 
