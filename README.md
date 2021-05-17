@@ -1,14 +1,24 @@
 # cekIP
-Hello..script ini digunakan  untuk mengecek Indek Prestasi(IP) Mahasiswa
+Hai,
+Script ini digunakan  untuk mengecek Indek Prestasi(IP) Mahasiswa STIKI INDONESIA.
+
+Cara Download:
+cd Download/
+git clone https://github.com/arta678/cekIP.git
+cd cekIP
 
 Cara Penggunaan:
 
-./cekIP.sh [nim yang dicari]
+./cekIP.sh [masukkan NIM mahasiswa yang ingin dicari]
 
 
 Contoh :
 
-./cekIP.sh 31102340
+./cekIP.sh 16101567
 
 
-![alt text](https://github.com/arta678/cekip/blob/master/ss/cekip.png)
+![alt text](https://github.com/arta678/cekip/blob/master/ss/cekIP1.png)
+
+./cekIP.sh 17101567
+
+![alt text](https://github.com/arta678/cekip/blob/master/ss/cekIP2.png)
