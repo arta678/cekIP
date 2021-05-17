@@ -3,8 +3,11 @@ Hai,
 Script ini digunakan  untuk mengecek Indek Prestasi(IP) Mahasiswa STIKI INDONESIA.
 
 Cara Download:
+
 cd Download/
+
 git clone https://github.com/arta678/cekIP.git
+
 cd cekIP
 
 Cara Penggunaan:
